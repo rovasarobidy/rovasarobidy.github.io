@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rovasarobidy.github.io/sitemap.xml
